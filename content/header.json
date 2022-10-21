@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "Aproveite nossos descontos de até 50%!",
-    "link": "/promotion"
+    "text": "Encontre sua identidade em forma de cheiro!",
+    "link": "",
+    "background": "#f500b6",
+    "color": "#000000"
   },
   "contacts_stripe": {
     "pages": [
