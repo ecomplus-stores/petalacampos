@@ -1,5 +1,6 @@
 {
   "domain": "petalacampos.com.br",
+  "repository": "ecomplus-stores/petalacampos",
   "currency_symbol": "R$",
   "primary_color": "#f932c5",
   "theme": {
