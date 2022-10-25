@@ -6,16 +6,7 @@
     "color": "#000000"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   },
@@ -26,6 +17,6 @@
   },
   "desktop_megamenu": false,
   "search_input": true,
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "full_width_submenu": false
 }
