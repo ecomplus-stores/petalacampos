@@ -35,9 +35,9 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": null,
+      "shuffle": true,
+      "collection_id": "6239f5442e405e04fff20177:categories:Flaconetes Originais:/flaconetes-originais",
+      "sort": "offers",
       "title": "",
       "headless": false,
       "limit": "",
