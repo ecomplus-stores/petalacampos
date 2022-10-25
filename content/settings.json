@@ -1,6 +1,5 @@
 {
   "domain": "petalacampos.com.br",
-  "repository": "ecomplus-stores/petalacampos",
   "currency_symbol": "R$",
   "primary_color": "#f932c5",
   "theme": {
@@ -8,6 +7,7 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/petalacampos",
   "logo": "/img/uploads/img-20200122-wa0014.jpg",
   "name": "Pétala Campos",
   "short_name": "petalacampos",
@@ -21,6 +21,6 @@
   "secondary_color": "#ff80f7",
   "icon": "/img/uploads/img-20200122-wa0014.jpg",
   "store_id": 8536,
-  "description": "Pétala",
+  "description": "Invista pouco para conhecer seu novo perfume favorito!",
   "large_icon": "/img/uploads/img-20200122-wa0014.jpg"
 }
