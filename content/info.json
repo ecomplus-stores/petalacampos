@@ -1,18 +1,18 @@
 {
   "shipping": {
     "show": true,
-    "text": "Escolha seu cheiro antes de investir, nós entregamos para todo o Brasil"
+    "text": "Escolha seu cheiro antes de investir, nós entregamos para todo o Brasil!"
   },
   "installments": {
     "show": true,
     "text": "5% de desconto no Pix e Parcelamento em até 6x sem juros no cartão de crédito"
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
-    "show": true,
+    "show": false,
     "text": ""
   }
 }
