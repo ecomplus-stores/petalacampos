@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c4caf9e86fdb2d72a1ea26d9559cbe18.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.c5bdd533d17627f5dcbaea44cf67d62a.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.87c17a8e12b0147697672a1cb79ab1ed.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.a1e75b231561b7475a8191e4ef542c93.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.0939545e72dd11b62e0a95c65079504e.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "Pétala Campos",
+  "short_name": "petalacampos",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Invista pouco para conhecer seu novo perfume favorito!",
+  "background_color": "#ffffff",
+  "theme_color": "#f932c5"
+}
